@@ -1,4 +1,9 @@
 ### Hi there This is Smeet Mehta👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smeet-mehta-78063919b/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/clumsy_panda_/)
+
+
 ![](https://komarev.com/ghpvc/?username=SmeetMehta&color=blueviolet)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmeetMehta&theme=dark)](https://git.io/streak-stats)
