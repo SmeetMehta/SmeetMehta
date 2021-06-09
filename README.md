@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmeetMehta&theme=dark)](https://git.io/streak-stats)
 
-![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
+![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning Flutter and Firebase.
