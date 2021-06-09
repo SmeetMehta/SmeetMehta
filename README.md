@@ -24,13 +24,14 @@
  ### inCoding 👨🏻‍💻
 
 
-<img src="https://img.icons8.com/color/28/000000/git.png"/>
-<img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/code.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
-<code><img height="40" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/dart.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
   
 </details>
   
