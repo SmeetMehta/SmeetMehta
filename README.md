@@ -15,7 +15,9 @@
 <details close>
 <summary><b>Checkout my Stats:</b> <i>(click to expand!)</i></summary>
  
-![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
+ Github Stats | Languages Used
+------------- | -------------
+![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
 
  </details>
 
