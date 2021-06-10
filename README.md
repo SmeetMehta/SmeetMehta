@@ -12,8 +12,12 @@
 
 --------------------------------------------------------------------
 
-![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby) <a target=" "> <img src="   " alt="    " width="20" height="200"/> </a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
+<details close>
+<summary><b>Checkout my Stats:</b> <i>(click to expand!)</i></summary>
+ 
+![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
 
+ </details>
 
 --------------------------------------------------------------------
 
@@ -27,8 +31,10 @@
  
  
 --------------------------------------------------------------------
+<details close>
+<summary><b>Connect with me:</b> <i>(click to expand!)</i></summary>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Click on any icon!:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/smeet-mehta-78063919b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Smeet Mehta" height="30" width="40" /></a>
 <a href="https://www.facebook.com/smeet.mehta.77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Smeet Mehta" height="30" width="40" /></a>
@@ -37,9 +43,11 @@
 <a href="https://auth.geeksforgeeks.org/user/smeetmehta14/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="smeetmehta14" height="30" width="40" /></a>
 </p>
 
+</details>
 
 --------------------------------------------------------------------
-<details close>
+
+<details close> 
 <summary><b>Find out what I Love to use ?</b> <i>(click to expand!)</i></summary>
   
  ### inCoding 👨🏻‍💻
