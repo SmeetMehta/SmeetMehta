@@ -25,15 +25,19 @@
 
 --------------------------------------------------------------------
 
+
 - 🌱 I’m currently learning Flutter and Firebase.
 
 - 🤔 I’m looking for help with Flutter and Firebase.
 
-- 📫 How to reach me: Click on any Social Media Icon given in Connect to me section.
- 
+- 📫 How to reach me: 
+    - Click on any Social Media Icon given in Connect with me section.
+    - Write a mail to me on smeetmehta14@gmail.com 
+    
 - ⚡ Fun fact: Apart from my technical skills I believe I am good at teamwork and team managment!
- 
- 
+
+- 👯 Current Sponsorship Head at CSE Association SRM. 
+
 --------------------------------------------------------------------
 
 <details close>
