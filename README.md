@@ -1,12 +1,13 @@
 <h1 align="center">Hi there This is Smeet Mehta👋</h1>
+<h4 align="center">Switch to Dark Mode for better UI/UX Experience :grin:</h4>
+
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smeet-mehta-78063919b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/clumsy_panda_/)-->
+ ![](https://komarev.com/ghpvc/?username=SmeetMehta&color=blueviolet) 
 
 --------------------------------------------------------------------
-
-![](https://komarev.com/ghpvc/?username=SmeetMehta&color=blueviolet)
 
 :black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square:
 </a>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmeetMehta&theme=highcontrast)](https://git.io/streak-stats):black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square:
@@ -15,8 +16,8 @@
 
 <details close>
 <summary><b>Checkout my Stats:</b> <i>(click to expand!)</i></summary>
- 
- Github Stats | Languages Used
+
+ :trident:Github Stats:trident: | :octocat:Languages Used:octocat:
 ------------- | -------------
 ![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,6 +35,7 @@
  
  
 --------------------------------------------------------------------
+
 <details close>
 <summary><b>Connect with me:</b> <i>(click to expand!)</i></summary>
 
@@ -69,6 +71,7 @@
 </details>
 
 --------------------------------------------------------------------
+
 [![Smeet's github activity graph](https://activity-graph.herokuapp.com/graph?username=SmeetMehta&theme=react-dark)](https://github.com/SmeetMehta/github-readme-activity-graph)
 
 
