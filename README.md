@@ -49,6 +49,9 @@
 <a href="https://www.instagram.com/clumsy_panda_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clumsy_panda_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/RA1811003010446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RA1811003010446" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/smeetmehta14/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="smeetmehta14" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/discord.svg" alt="RA1811003010446" height="30" width="40" /></a>
+ 
+ 
 </p>
 
 </details>
