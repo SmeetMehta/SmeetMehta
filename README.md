@@ -14,14 +14,13 @@
 
 --------------------------------------------------------------------
 
-<details close>
-<summary><b>Checkout my Stats:</b> <i>(click to expand!)</i></summary>
+
 
  :trident:Github Stats:trident: | :octocat:Languages Used:octocat:
 ------------- | -------------
 ![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
 
- </details>
+
 
 --------------------------------------------------------------------
 
@@ -56,23 +55,23 @@
 
 --------------------------------------------------------------------
 
-<details close> 
-<summary><b>Find out what I Love to use ?</b> <i>(click to expand!)</i></summary>
+
   
  ### inCoding 👨🏻‍💻
 
 
 
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
-   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg"></code>
-   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/dart.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-  
-</details>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/firebase.svg"></code>
+   
+ 
 
 --------------------------------------------------------------------
 
