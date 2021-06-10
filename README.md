@@ -1,4 +1,5 @@
-### Hi there This is Smeet Mehta👋
+<h1 align="center">Hi there This is Smeet Mehta👋</h1>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smeet-mehta-78063919b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/clumsy_panda_/)
@@ -12,8 +13,11 @@
 
 
 - 🌱 I’m currently learning Flutter and Firebase.
+
 - 🤔 I’m looking for help with Flutter and Firebase.
+
 - 📫 How to reach me: DM me on linkedIn! link in description.
+
 - ⚡ Fun fact: Apart from my technical skills I believe I am good at teamwork and team managment!
 
 
@@ -34,6 +38,8 @@
 
   
 </details>
+
+[![Smeet's github activity graph](https://activity-graph.herokuapp.com/graph?username=SmeetMehta&theme=react-dark)](https://github.com/Yukta30/github-readme-activity-graph)
   
 <!--
 **SmeetMehta/SmeetMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
