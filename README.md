@@ -12,7 +12,7 @@
 
 --------------------------------------------------------------------
 
-![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby) <a target="_blank"> <img src="http://clipart-library.com/img/1323665.png" alt="bootstrap" width="20" height="200"/> </a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
+![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=great-gatsby) <a target="_blank"> <img src="http://clipart-library.com/img/1323665.png" alt="bootstrap" width="50" height="200"/> </a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta)](https://github.com/anuraghazra/github-readme-stats)
 
 
 --------------------------------------------------------------------
