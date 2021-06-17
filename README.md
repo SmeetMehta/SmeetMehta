@@ -9,8 +9,7 @@
 
 --------------------------------------------------------------------
 
-:black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square:
-</a>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmeetMehta&theme=highcontrast)](https://git.io/streak-stats):black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square::black_small_square:
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=SmeetMehta&theme=highcontrast" alt="GitHub Streak" /></p>
 
 --------------------------------------------------------------------
 
