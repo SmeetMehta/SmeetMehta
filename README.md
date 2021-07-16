@@ -1,4 +1,4 @@
-<h1 align="center">Hi there This is Smeet Mehta👋</h1>
+<h1 align="center">Hi There This Is Smeet Mehta👋</h1>
 <h4 align="center">Switch to Dark Mode for better UI/UX Experience :grin:</h4>
 
 
