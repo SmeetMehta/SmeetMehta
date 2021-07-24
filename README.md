@@ -6,12 +6,11 @@
 
 
 
-
-
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smeet-mehta-78063919b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/clumsy_panda_/)-->
- ![](https://komarev.com/ghpvc/?username=SmeetMehta&color=blueviolet) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/clumsy_panda_/)
+ ![](https://komarev.com/ghpvc/?username=SmeetMehta&color=blue) -->
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=SmeetMehta&color=blue" alt="GitHub Streak" /></p>
 
 --------------------------------------------------------------------
 
