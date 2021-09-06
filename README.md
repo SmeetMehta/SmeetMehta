@@ -33,7 +33,7 @@
 --------------------------------------------------------------------
 
 
-- 🌱 I’m currently learning Flutter and Firebase.
+- 🌱 I’m currently learning R.
 
 - 🤔 I’m looking for help with Flutter and Firebase.
 
