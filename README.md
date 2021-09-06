@@ -72,6 +72,7 @@
 
 
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
+   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/r-lang.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
