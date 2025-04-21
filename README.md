@@ -35,9 +35,7 @@
 --------------------------------------------------------------------
 
 
-- 🌱 I’m currently learning R.
-
-- 🤔 I’m looking for help with Flutter and Firebase.
+- 🌱 I’m currently learning Agentic AI.
 
 - 📫 How to reach me: 
     - Click on any Social Media Icon given in Connect with me section.
