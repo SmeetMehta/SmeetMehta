@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=E040FB&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=140&lines=Hi+I'm+Smeet+Mehta+%F0%9F%91%8B;Software+Engineer;I+build+systems+that+scale+%E2%80%94+and+think." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=E040FB&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=180&lines=Hi+I'm+Smeet+Mehta+%F0%9F%91%8B;Software+Engineer;MS+%40+USC+%7C+Ex-Tiger+Analytics;I+build+systems+that+scale+%E2%80%94+and+think." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   <a href="mailto:smeetmehta14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/RA1811003010446"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/smeetmehta14/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SmeetMehta&color=blueviolet&style=for-the-badge&label=VIEWS" />
 </p>
 
@@ -36,7 +39,8 @@ class SmeetMehta:
         self.languages   = ["Python", "Java", "C++", "SQL"]
         self.backend     = ["REST APIs", "PostgreSQL", "Docker", "Linux", "Distributed Systems"]
         self.ai_ml       = ["LangChain", "Multi-Agent Systems", "RAG", "LLMs", "PySpark"]
-        self.currently   = "Building AI systems that work in production — not just demos"
+        self.currently   = "Building AI systems that work in production - not just demos"
+        self.work_auth   = "F-1 OPT - Authorized to work in the US"
 
 
     def __str__(self):
@@ -47,17 +51,17 @@ class SmeetMehta:
 
 ## 🏗️ What I've Shipped
 
-**🏥 Clinical AI Platform** — *Lumina AI Health*
+**🏥 Clinical AI Platform** - *Lumina AI Health*
 > Designed and deployed a **PostgreSQL-backed multi-modal backend** ingesting lab results, imaging & genomic data. Engineered **8 production LangChain agents** for automated clinical recommendations via Firebase Studio.
 
-**🤖 Insights-Pro** — *Tiger Analytics*
-> Owned end-to-end architecture of a **multi-agent AI system** — Web Search + SQL Generation + Validation agents — hitting **90% accuracy on NL business queries** with 80% boost in GenAI output efficiency.
+**🤖 Insights-Pro** - *Tiger Analytics*
+> Owned end-to-end architecture of a **multi-agent AI system** - Web Search + SQL Generation + Validation agents - hitting **90% accuracy on NL business queries** with 80% boost in GenAI output efficiency.
 
-**💰 Price Optimization Engine** — *Tiger Analytics*
+**💰 Price Optimization Engine** - *Tiger Analytics*
 > Built a derivative-free constrained optimization model in Python delivering a **30% average profit increase** for a multinational food giant across 10+ markets.
 
-**♻️ Large-Scale Codebase Refactor** — *Tiger Analytics*
-> Modularized a **100K+ line production codebase** into region-configurable architecture — cut production incidents by **40%** and slashed regional rollout time by weeks.
+**♻️ Large-Scale Codebase Refactor** - *Tiger Analytics*
+> Modularized a **100K+ line production codebase** into region-configurable architecture - cut production incidents by **40%** and slashed regional rollout time by weeks.
 
 ---
 
@@ -90,7 +94,7 @@ class SmeetMehta:
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🍽️ **Yelp Recommender** | Hybrid recommendation engine — 0.972 RMSE on 1.2GB+ data | PySpark, XGBoost |
+| 🍽️ **Yelp Recommender** | Hybrid recommendation engine - 0.972 RMSE on 1.2GB+ data | PySpark, XGBoost |
 | 🌍 **LinguaSense** | Real-time multilingual sentiment with NL explanations | HuggingFace, LLMs |
 | 🗄️ **ConvoDB** | NL → SQL/MongoDB query engine, zero LLM, built from scratch | NLTK, Python, SQL |
 
@@ -112,7 +116,7 @@ class SmeetMehta:
 ## 📬 Let's Connect
 
 I'm actively looking for **Backend / AI-ML Engineering roles**.
-If you're building something hard and meaningful — I'd love to hear about it.
+If you're building something hard and meaningful - I'd love to hear about it.
 
 <p align="center">
   <a href="mailto:smeetmehta14@gmail.com"><img src="https://img.shields.io/badge/→_Hire_Me-E040FB?style=for-the-badge" /></a>
