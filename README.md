@@ -103,11 +103,6 @@ class SmeetMehta:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmeetMehta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=00c6ff&text_color=ffffff&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetMehta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e040fb&text_color=ffffff" width="40%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SmeetMehta&theme=tokyonight&hide_border=true&background=0d1117&ring=e040fb&fire=f7971e&currStreakLabel=00c6ff" width="55%" />
 </p>
 
@@ -115,10 +110,13 @@ class SmeetMehta:
 
 ## 📬 Let's Connect
 
-I'm actively looking for **Backend / AI-ML Engineering roles**.
+I'm actively looking for **Software / Backend / AI-ML Engineering roles**.
 If you're building something hard and meaningful - I'd love to hear about it.
 
 <p align="center">
+  <a href="https://github.com/SmeetMehta/SmeetMehta/raw/main/Resume_Smeet_Mehta.pdf">
+    <img src="https://img.shields.io/badge/📄_View_Resume-E040FB?style=for-the-badge" />
+  </a>
   <a href="mailto:smeetmehta14@gmail.com"><img src="https://img.shields.io/badge/→_Hire_Me-E040FB?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/smeetmehta/"><img src="https://img.shields.io/badge/→_Let's_Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
