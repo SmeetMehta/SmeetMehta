@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=E040FB&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=180&lines=Hi+I'm+Smeet+Mehta+%F0%9F%91%8B;Software+Engineer;MS+%40+USC+%7C+Ex-Tiger+Analytics;I+build+systems+that+scale+%E2%80%94+and+think." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=400&color=E040FB&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=180&lines=Hi+I'm+Smeet+Mehta+%F0%9F%91%8B;Software+Engineer;MS+%40+USC+%7C+Ex-Tiger+Analytics;I+build+systems+that+scale+%E2%80%94+and+think." alt="Typing SVG" />
 </h1>
 
 <p align="center">
